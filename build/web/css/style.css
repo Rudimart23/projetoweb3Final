@@ -1,0 +1,18 @@
+#form-login{
+            text-align: center;
+            margin-top: 5%
+}
+input[type="submit"]{
+     width: 180px;
+     padding:5px 0px 5px 0px;
+     font-size: 18pt;
+     cursor: pointe;
+}
+.fields{
+   width: 200px;
+   font-family:impact;
+   font-size: 16px;
+   padding: 5px;
+   color: purple;
+   box-shadow: 3px,3px,3px black;
+}
